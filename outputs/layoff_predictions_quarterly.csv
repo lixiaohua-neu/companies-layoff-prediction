@@ -1,0 +1,609 @@
+Company,Date,year_quarter,Layoff_Risk_Score,Predicted_Layoff,Risk_Category,Layoff_Event_Binary
+fisker,2024-01-01,2024-Q1,0.9126667,1,High Risk,1.0
+pure storage,2024-01-01,2024-Q1,0.9112418,1,High Risk,1.0
+rapid7,2023-07-01,2023-Q3,0.90913564,1,High Risk,1.0
+planet,2023-07-01,2023-Q3,0.908891,1,High Risk,1.0
+block,2023-10-01,2023-Q4,0.9085408,1,High Risk,1.0
+etsy,2023-10-01,2023-Q4,0.9085408,1,High Risk,1.0
+fortinet,2023-07-01,2023-Q3,0.9085408,1,High Risk,1.0
+zebra technologies,2023-07-01,2023-Q3,0.9085136,1,High Risk,1.0
+chewy,2023-10-01,2023-Q4,0.9085136,1,High Risk,1.0
+tenable,2024-01-01,2024-Q1,0.90845954,1,High Risk,1.0
+enphase energy,2023-10-01,2023-Q4,0.9081621,1,High Risk,1.0
+presto,2023-10-01,2023-Q4,0.9081621,1,High Risk,1.0
+impinj,2024-01-01,2024-Q1,0.90808254,1,High Risk,1.0
+solaredge,2024-01-01,2024-Q1,0.90463483,1,High Risk,1.0
+phunware,2023-07-01,2023-Q3,0.89953864,1,High Risk,1.0
+kaspien,2023-10-01,2023-Q4,0.89784324,1,High Risk,1.0
+everquote,2023-07-01,2023-Q3,0.89784324,1,High Risk,1.0
+nanostring technologies,2024-01-01,2024-Q1,0.89661,1,High Risk,1.0
+aptiv,2024-01-01,2024-Q1,0.8918391,1,High Risk,1.0
+take-two,2024-04-01,2024-Q2,0.8859494,1,High Risk,1.0
+juniper networks,2023-10-01,2023-Q4,0.86018866,1,High Risk,1.0
+luminar,2024-04-01,2024-Q2,0.8590602,1,High Risk,1.0
+domo,2023-07-01,2023-Q3,0.77256215,1,High Risk,0.0
+gopro,2023-07-01,2023-Q3,0.7714727,1,High Risk,0.0
+yelp,2023-07-01,2023-Q3,0.7431886,1,High Risk,0.0
+tripadvisor,2023-07-01,2023-Q3,0.6593781,1,High Risk,1.0
+intuit,2023-07-01,2023-Q3,0.6589987,1,High Risk,0.0
+cargurus,2023-07-01,2023-Q3,0.64255494,1,High Risk,0.0
+gopro,2024-01-01,2024-Q1,0.6408155,1,High Risk,1.0
+yelp,2024-01-01,2024-Q1,0.600272,1,High Risk,0.0
+gopro,2023-10-01,2023-Q4,0.5849667,1,Medium Risk,0.0
+domo,2023-10-01,2023-Q4,0.5756409,1,Medium Risk,1.0
+cargurus,2024-01-01,2024-Q1,0.5667484,1,Medium Risk,0.0
+intuit,2024-01-01,2024-Q1,0.5626526,1,Medium Risk,0.0
+yelp,2023-10-01,2023-Q4,0.541773,1,Medium Risk,0.0
+yelp,2024-04-01,2024-Q2,0.5020398,1,Medium Risk,0.0
+intuit,2024-04-01,2024-Q2,0.48751035,1,Medium Risk,0.0
+cargurus,2024-04-01,2024-Q2,0.4842106,1,Medium Risk,0.0
+cardlytics,2023-07-01,2023-Q3,0.47633293,1,Medium Risk,0.0
+western digital,2023-07-01,2023-Q3,0.4751589,1,Medium Risk,0.0
+2u,2023-07-01,2023-Q3,0.473019,1,Medium Risk,1.0
+groupon,2023-07-01,2023-Q3,0.473019,1,Medium Risk,0.0
+magnite,2023-07-01,2023-Q3,0.473019,1,Medium Risk,0.0
+blue apron,2023-07-01,2023-Q3,0.473019,1,Medium Risk,1.0
+view,2023-07-01,2023-Q3,0.47223505,1,Medium Risk,0.0
+blackline,2023-07-01,2023-Q3,0.4719666,1,Medium Risk,1.0
+carvana,2023-07-01,2023-Q3,0.47079703,1,Medium Risk,0.0
+sabre,2023-07-01,2023-Q3,0.47079366,1,Medium Risk,0.0
+everbridge,2023-07-01,2023-Q3,0.47053978,1,Medium Risk,0.0
+eventbrite,2023-07-01,2023-Q3,0.47053978,1,Medium Risk,0.0
+redfin,2023-07-01,2023-Q3,0.47053978,1,Medium Risk,0.0
+apple,2023-07-01,2023-Q3,0.47009647,1,Medium Risk,0.0
+sqz biotech,2023-07-01,2023-Q3,0.4697452,1,Medium Risk,0.0
+cimpress,2023-07-01,2023-Q3,0.4697452,1,Medium Risk,0.0
+zscaler,2023-07-01,2023-Q3,0.46948797,1,Medium Risk,0.0
+amazon,2023-07-01,2023-Q3,0.46807614,1,Medium Risk,1.0
+compass,2023-07-01,2023-Q3,0.46806112,1,Medium Risk,0.0
+uber,2023-07-01,2023-Q3,0.467619,1,Medium Risk,0.0
+docusign,2023-07-01,2023-Q3,0.467619,1,Medium Risk,0.0
+workday,2023-07-01,2023-Q3,0.4672645,1,Medium Risk,0.0
+take-two interactive,2023-07-01,2023-Q3,0.46643627,1,Medium Risk,0.0
+wayfair,2023-07-01,2023-Q3,0.46643627,1,Medium Risk,0.0
+bird,2023-07-01,2023-Q3,0.46583843,1,Medium Risk,0.0
+sea,2023-07-01,2023-Q3,0.46583843,1,Medium Risk,0.0
+viasat,2023-07-01,2023-Q3,0.46583843,1,Medium Risk,0.0
+fubotv,2023-07-01,2023-Q3,0.46538556,1,Medium Risk,0.0
+lyft,2023-07-01,2023-Q3,0.46498695,1,Medium Risk,0.0
+alteryx,2023-07-01,2023-Q3,0.46498695,1,Medium Risk,0.0
+ebay,2023-07-01,2023-Q3,0.46495694,1,Medium Risk,0.0
+yext,2023-07-01,2023-Q3,0.4645344,1,Medium Risk,0.0
+pagerduty,2023-07-01,2023-Q3,0.4645344,1,Medium Risk,0.0
+8x8,2023-07-01,2023-Q3,0.4645344,1,Medium Risk,0.0
+elastic,2023-07-01,2023-Q3,0.4645344,1,Medium Risk,0.0
+zillow,2023-07-01,2023-Q3,0.46418795,1,Medium Risk,0.0
+contrafect,2023-07-01,2023-Q3,0.4639611,1,Medium Risk,0.0
+upwork,2023-07-01,2023-Q3,0.4639367,1,Medium Risk,0.0
+paypal,2023-07-01,2023-Q3,0.46390662,1,Medium Risk,0.0
+sonos,2023-07-01,2023-Q3,0.46351862,1,Medium Risk,0.0
+nikola,2023-07-01,2023-Q3,0.46276623,1,Medium Risk,0.0
+zuora,2023-07-01,2023-Q3,0.46276623,1,Medium Risk,0.0
+godaddy,2023-07-01,2023-Q3,0.46273622,1,Medium Risk,0.0
+expedia,2023-07-01,2023-Q3,0.46273622,1,Medium Risk,1.0
+netflix,2023-07-01,2023-Q3,0.46273622,1,Medium Risk,0.0
+beyond meat,2023-07-01,2023-Q3,0.4621571,1,Medium Risk,0.0
+invitae,2023-07-01,2023-Q3,0.46175882,1,Medium Risk,0.0
+canoo,2023-07-01,2023-Q3,0.46171662,1,Medium Risk,0.0
+hubspot,2023-07-01,2023-Q3,0.46171662,1,Medium Risk,0.0
+okta,2023-07-01,2023-Q3,0.4614869,1,Medium Risk,0.0
+nutanix,2023-07-01,2023-Q3,0.4614869,1,Medium Risk,0.0
+medtronic,2023-07-01,2023-Q3,0.46104568,1,Medium Risk,0.0
+truecar,2023-07-01,2023-Q3,0.46088415,1,Medium Risk,0.0
+quanterix,2023-07-01,2023-Q3,0.46088415,1,Medium Risk,0.0
+zoom,2023-07-01,2023-Q3,0.46014675,1,Medium Risk,0.0
+teladoc health,2023-07-01,2023-Q3,0.46014675,1,Medium Risk,0.0
+chegg,2023-07-01,2023-Q3,0.45908847,1,Medium Risk,0.0
+new relic,2023-07-01,2023-Q3,0.45899102,1,Medium Risk,0.0
+natera,2023-07-01,2023-Q3,0.45841873,1,Medium Risk,0.0
+twilio,2023-07-01,2023-Q3,0.4584132,1,Medium Risk,0.0
+tesla,2023-07-01,2023-Q3,0.45838878,1,Medium Risk,0.0
+siriusxm,2023-07-01,2023-Q3,0.45838878,1,Medium Risk,0.0
+roku,2023-07-01,2023-Q3,0.45737067,1,Medium Risk,1.0
+codexis,2023-07-01,2023-Q3,0.45737067,1,Medium Risk,0.0
+guardant health,2023-07-01,2023-Q3,0.45681664,1,Medium Risk,0.0
+lordstown motors,2023-07-01,2023-Q3,0.45609972,1,Medium Risk,0.0
+snap,2023-07-01,2023-Q3,0.45606977,1,Medium Risk,1.0
+latch,2023-07-01,2023-Q3,0.45606977,1,Medium Risk,1.0
+twist bioscience,2023-07-01,2023-Q3,0.45594344,1,Medium Risk,0.0
+adaptive biotechnologies,2023-07-01,2023-Q3,0.45519745,1,Medium Risk,0.0
+splunk,2023-07-01,2023-Q3,0.4534822,1,Medium Risk,0.0
+biomarin,2023-07-01,2023-Q3,0.45347667,1,Medium Risk,0.0
+cue,2023-07-01,2023-Q3,0.4528811,1,Medium Risk,0.0
+fate therapeutics,2023-07-01,2023-Q3,0.4528811,1,Medium Risk,0.0
+synlogic,2023-07-01,2023-Q3,0.4528811,1,Medium Risk,0.0
+nanostring,2023-07-01,2023-Q3,0.4528811,1,Medium Risk,0.0
+pinterest,2023-07-01,2023-Q3,0.4528811,1,Medium Risk,0.0
+editas medicine,2023-07-01,2023-Q3,0.4528811,1,Medium Risk,0.0
+digimarc,2023-07-01,2023-Q3,0.4518351,1,Medium Risk,0.0
+personalis,2023-07-01,2023-Q3,0.4518351,1,Medium Risk,0.0
+dropbox,2023-07-01,2023-Q3,0.45039284,1,Medium Risk,0.0
+meta,2023-07-01,2023-Q3,0.44808087,1,Medium Risk,0.0
+tricida,2023-07-01,2023-Q3,0.44795483,1,Medium Risk,0.0
+stitch fix,2023-07-01,2023-Q3,0.4427365,1,Medium Risk,1.0
+criteo,2023-07-01,2023-Q3,0.44028336,1,Medium Risk,0.0
+micron,2023-07-01,2023-Q3,0.43992963,1,Medium Risk,0.0
+salesforce,2023-07-01,2023-Q3,0.43612427,1,Medium Risk,1.0
+intuit,2023-10-01,2023-Q4,0.43605444,1,Medium Risk,0.0
+liveperson,2023-07-01,2023-Q3,0.43388072,1,Medium Risk,0.0
+ringcentral,2023-07-01,2023-Q3,0.43027347,1,Medium Risk,0.0
+synopsys,2023-07-01,2023-Q3,0.42803773,1,Medium Risk,0.0
+liveramp,2023-07-01,2023-Q3,0.42779306,1,Medium Risk,0.0
+cisco,2023-07-01,2023-Q3,0.4271749,1,Medium Risk,1.0
+illumina,2023-07-01,2023-Q3,0.42586103,1,Medium Risk,1.0
+varonis,2023-07-01,2023-Q3,0.42269206,1,Medium Risk,0.0
+cargurus,2023-10-01,2023-Q4,0.42177376,1,Medium Risk,0.0
+intel,2023-07-01,2023-Q3,0.42108157,1,Medium Risk,1.0
+guidewire,2023-07-01,2023-Q3,0.4192422,1,Medium Risk,0.0
+irobot,2023-07-01,2023-Q3,0.41842785,1,Medium Risk,0.0
+akamai,2023-07-01,2023-Q3,0.41839847,1,Medium Risk,0.0
+electronic arts,2023-07-01,2023-Q3,0.4176513,1,Medium Risk,0.0
+adobe,2023-07-01,2023-Q3,0.41646013,1,Medium Risk,0.0
+microsoft,2023-07-01,2023-Q3,0.41620952,1,Medium Risk,1.0
+appfolio,2023-07-01,2023-Q3,0.41615567,1,Medium Risk,1.0
+juniper networks,2023-07-01,2023-Q3,0.4150844,1,Medium Risk,0.0
+google,2023-07-01,2023-Q3,0.4128043,1,Medium Risk,1.0
+dhi group,2023-07-01,2023-Q3,0.40346488,1,Medium Risk,0.0
+aptiv,2023-07-01,2023-Q3,0.3955459,1,Medium Risk,0.0
+lyft,2024-01-01,2024-Q1,0.3875909,1,Medium Risk,0.0
+apple,2024-01-01,2024-Q1,0.38755617,1,Medium Risk,1.0
+western digital,2024-01-01,2024-Q1,0.3868574,1,Medium Risk,0.0
+view,2024-01-01,2024-Q1,0.38634324,1,Medium Risk,0.0
+godaddy,2024-01-01,2024-Q1,0.3853182,1,Medium Risk,0.0
+nikola,2024-01-01,2024-Q1,0.38342243,1,Medium Risk,0.0
+compass,2024-01-01,2024-Q1,0.38306522,1,Medium Risk,0.0
+sabre,2024-01-01,2024-Q1,0.38282588,1,Medium Risk,0.0
+zebra technologies,2024-01-01,2024-Q1,0.3816359,1,Medium Risk,0.0
+netflix,2024-01-01,2024-Q1,0.37971753,1,Medium Risk,0.0
+uber,2024-01-01,2024-Q1,0.37900418,1,Medium Risk,0.0
+magnite,2024-01-01,2024-Q1,0.378452,1,Medium Risk,0.0
+autodesk,2023-07-01,2023-Q3,0.3754969,1,Medium Risk,0.0
+ibm,2023-07-01,2023-Q3,0.37515098,1,Medium Risk,1.0
+solaredge,2023-07-01,2023-Q3,0.37371284,1,Medium Risk,0.0
+paypal,2024-01-01,2024-Q1,0.3708484,1,Medium Risk,1.0
+alteryx,2024-01-01,2024-Q1,0.3706135,1,Medium Risk,0.0
+planet,2024-01-01,2024-Q1,0.37047544,1,Medium Risk,0.0
+eventbrite,2024-01-01,2024-Q1,0.3704625,1,Medium Risk,0.0
+8x8,2024-01-01,2024-Q1,0.3697166,1,Medium Risk,0.0
+analog devices,2023-07-01,2023-Q3,0.36955887,1,Medium Risk,0.0
+criteo,2024-01-01,2024-Q1,0.36907175,1,Medium Risk,0.0
+sea,2024-01-01,2024-Q1,0.36903304,1,Medium Risk,0.0
+e inc.,2023-07-01,2023-Q3,0.3683078,1,Medium Risk,0.0
+yext,2024-01-01,2024-Q1,0.36794296,1,Medium Risk,0.0
+netapp,2023-07-01,2023-Q3,0.36763176,1,Medium Risk,0.0
+cardlytics,2024-01-01,2024-Q1,0.36744958,1,Medium Risk,0.0
+hubspot,2024-01-01,2024-Q1,0.36723202,1,Medium Risk,1.0
+fortinet,2024-01-01,2024-Q1,0.36711794,1,Medium Risk,0.0
+zscaler,2024-01-01,2024-Q1,0.36666682,1,Medium Risk,0.0
+natera,2024-01-01,2024-Q1,0.36611995,1,Medium Risk,0.0
+varonis,2024-01-01,2024-Q1,0.3659979,1,Medium Risk,0.0
+docusign,2024-01-01,2024-Q1,0.3659241,1,Medium Risk,1.0
+workday,2024-01-01,2024-Q1,0.36535043,1,Medium Risk,0.0
+national instruments,2023-07-01,2023-Q3,0.3633426,1,Medium Risk,0.0
+pagerduty,2024-01-01,2024-Q1,0.36296496,1,Medium Risk,0.0
+blackline,2024-01-01,2024-Q1,0.36251247,1,Medium Risk,0.0
+chewy,2024-01-01,2024-Q1,0.3623989,1,Medium Risk,0.0
+tripadvisor,2024-01-01,2024-Q1,0.36100304,1,Medium Risk,0.0
+upwork,2024-01-01,2024-Q1,0.36089957,1,Medium Risk,0.0
+zuora,2024-01-01,2024-Q1,0.36048728,1,Medium Risk,1.0
+redfin,2024-01-01,2024-Q1,0.36031285,1,Medium Risk,0.0
+2u,2024-01-01,2024-Q1,0.35968864,1,Medium Risk,1.0
+guardant health,2024-01-01,2024-Q1,0.35907346,1,Medium Risk,0.0
+juniper networks,2024-01-01,2024-Q1,0.35870624,1,Medium Risk,0.0
+stitch fix,2024-01-01,2024-Q1,0.3583902,1,Medium Risk,1.0
+everbridge,2024-01-01,2024-Q1,0.3582072,1,Medium Risk,0.0
+f5,2023-07-01,2023-Q3,0.35764635,1,Medium Risk,0.0
+amazon,2024-01-01,2024-Q1,0.3566391,1,Medium Risk,1.0
+kaspien,2024-01-01,2024-Q1,0.35618207,1,Medium Risk,0.0
+phunware,2024-01-01,2024-Q1,0.3554507,1,Medium Risk,0.0
+chewy,2023-07-01,2023-Q3,0.35508123,1,Medium Risk,0.0
+liveperson,2024-01-01,2024-Q1,0.35489208,1,Medium Risk,0.0
+expedia,2024-01-01,2024-Q1,0.35411358,1,Medium Risk,1.0
+qualcomm,2023-07-01,2023-Q3,0.35363212,1,Medium Risk,0.0
+take-two interactive,2024-01-01,2024-Q1,0.35353076,1,Medium Risk,0.0
+zoom,2024-01-01,2024-Q1,0.35318124,1,Medium Risk,1.0
+tesla,2024-01-01,2024-Q1,0.3521038,1,Medium Risk,0.0
+viasat,2024-01-01,2024-Q1,0.35196504,1,Medium Risk,0.0
+intel,2024-01-01,2024-Q1,0.35176513,1,Medium Risk,0.0
+enphase energy,2024-01-01,2024-Q1,0.35120586,1,Medium Risk,0.0
+cisco,2024-01-01,2024-Q1,0.35070246,1,Medium Risk,1.0
+ebay,2024-01-01,2024-Q1,0.35053447,1,Medium Risk,1.0
+okta,2024-01-01,2024-Q1,0.35036868,1,Medium Risk,1.0
+new relic,2024-01-01,2024-Q1,0.34995162,1,Medium Risk,0.0
+sqz biotech,2024-01-01,2024-Q1,0.34962347,1,Medium Risk,0.0
+bird,2024-01-01,2024-Q1,0.3493329,1,Medium Risk,0.0
+latch,2024-01-01,2024-Q1,0.34881055,1,Medium Risk,0.0
+micron,2024-01-01,2024-Q1,0.3485257,1,Medium Risk,0.0
+medtronic,2024-01-01,2024-Q1,0.3470248,1,Medium Risk,0.0
+siriusxm,2024-01-01,2024-Q1,0.3450694,1,Medium Risk,1.0
+elastic,2024-01-01,2024-Q1,0.34412616,1,Medium Risk,0.0
+rapid7,2024-01-01,2024-Q1,0.3439216,1,Medium Risk,0.0
+wayfair,2024-01-01,2024-Q1,0.34289232,1,Medium Risk,1.0
+carvana,2024-01-01,2024-Q1,0.34289232,1,Medium Risk,0.0
+dropbox,2024-01-01,2024-Q1,0.3425296,1,Medium Risk,0.0
+cimpress,2024-01-01,2024-Q1,0.34252688,1,Medium Risk,0.0
+akamai,2024-01-01,2024-Q1,0.34153822,1,Medium Risk,0.0
+lam research,2023-07-01,2023-Q3,0.34079474,1,Medium Risk,0.0
+groupon,2024-01-01,2024-Q1,0.34076875,1,Medium Risk,0.0
+pinterest,2024-01-01,2024-Q1,0.34058687,1,Medium Risk,0.0
+zillow,2024-01-01,2024-Q1,0.34027153,1,Medium Risk,0.0
+salesforce,2024-01-01,2024-Q1,0.33993253,1,Medium Risk,1.0
+nutanix,2024-01-01,2024-Q1,0.33992136,1,Medium Risk,0.0
+ringcentral,2024-01-01,2024-Q1,0.33970356,1,Medium Risk,0.0
+everquote,2024-01-01,2024-Q1,0.33946842,1,Medium Risk,0.0
+fubotv,2024-01-01,2024-Q1,0.33946553,1,Medium Risk,0.0
+chegg,2024-01-01,2024-Q1,0.33926257,1,Medium Risk,0.0
+teladoc health,2024-01-01,2024-Q1,0.33896407,1,Medium Risk,0.0
+dell,2023-07-01,2023-Q3,0.33872172,1,Medium Risk,1.0
+truecar,2024-01-01,2024-Q1,0.33698863,1,Medium Risk,0.0
+illumina,2024-01-01,2024-Q1,0.3368744,1,Medium Risk,1.0
+fate therapeutics,2024-01-01,2024-Q1,0.33617705,1,Medium Risk,0.0
+cue,2024-01-01,2024-Q1,0.33527094,1,Medium Risk,0.0
+roku,2024-01-01,2024-Q1,0.3349155,1,Medium Risk,0.0
+logitech,2023-07-01,2023-Q3,0.3347854,1,Medium Risk,0.0
+liveramp,2024-01-01,2024-Q1,0.33466595,1,Medium Risk,0.0
+quanterix,2024-01-01,2024-Q1,0.33420756,1,Medium Risk,0.0
+beyond meat,2024-01-01,2024-Q1,0.33311927,1,Medium Risk,0.0
+seagate,2023-07-01,2023-Q3,0.33309105,1,Medium Risk,0.0
+adaptive biotechnologies,2024-01-01,2024-Q1,0.3326422,1,Medium Risk,0.0
+contrafect,2024-01-01,2024-Q1,0.3325287,1,Medium Risk,0.0
+biomarin,2024-01-01,2024-Q1,0.3322695,1,Medium Risk,0.0
+match group,2023-07-01,2023-Q3,0.33225662,1,Medium Risk,0.0
+block,2024-01-01,2024-Q1,0.33160698,1,Medium Risk,1.0
+editas medicine,2024-01-01,2024-Q1,0.33088082,1,Medium Risk,0.0
+lordstown motors,2024-01-01,2024-Q1,0.3304876,1,Medium Risk,0.0
+domo,2024-01-01,2024-Q1,0.3289691,1,Medium Risk,0.0
+splunk,2024-01-01,2024-Q1,0.32842597,1,Medium Risk,0.0
+twist bioscience,2024-01-01,2024-Q1,0.32826123,1,Medium Risk,0.0
+google,2024-01-01,2024-Q1,0.32650048,1,Medium Risk,1.0
+oracle,2023-07-01,2023-Q3,0.32584596,1,Medium Risk,0.0
+canoo,2024-01-01,2024-Q1,0.32497022,1,Medium Risk,0.0
+microsoft,2024-01-01,2024-Q1,0.32476443,1,Medium Risk,1.0
+coherent,2023-07-01,2023-Q3,0.32375714,1,Medium Risk,0.0
+snap,2024-01-01,2024-Q1,0.3236846,1,Medium Risk,1.0
+adobe,2024-01-01,2024-Q1,0.3233662,1,Medium Risk,0.0
+meta,2024-01-01,2024-Q1,0.32252982,1,Medium Risk,1.0
+twilio,2024-01-01,2024-Q1,0.32221094,1,Medium Risk,0.0
+irobot,2024-01-01,2024-Q1,0.3220676,1,Medium Risk,1.0
+nanostring,2024-01-01,2024-Q1,0.32206494,1,Medium Risk,0.0
+codexis,2024-01-01,2024-Q1,0.32145578,1,Medium Risk,0.0
+presto,2024-01-01,2024-Q1,0.32061204,1,Medium Risk,0.0
+sabre,2024-04-01,2024-Q2,0.3201377,1,Medium Risk,0.0
+compass,2024-04-01,2024-Q2,0.31930327,1,Medium Risk,0.0
+electronic arts,2024-01-01,2024-Q1,0.31923833,1,Medium Risk,1.0
+godaddy,2024-04-01,2024-Q2,0.31794125,1,Medium Risk,0.0
+sonos,2024-01-01,2024-Q1,0.3175324,1,Medium Risk,0.0
+sea,2024-04-01,2024-Q2,0.31737778,1,Medium Risk,0.0
+zebra technologies,2024-04-01,2024-Q2,0.3163382,1,Medium Risk,0.0
+lyft,2024-04-01,2024-Q2,0.31618014,1,Medium Risk,0.0
+uber,2024-04-01,2024-Q2,0.31515148,1,Medium Risk,0.0
+netflix,2024-04-01,2024-Q2,0.31486967,1,Medium Risk,0.0
+western digital,2024-04-01,2024-Q2,0.31452996,1,Medium Risk,0.0
+carvana,2024-04-01,2024-Q2,0.31403938,1,Medium Risk,0.0
+personalis,2024-01-01,2024-Q1,0.31245163,1,Medium Risk,0.0
+blue apron,2024-01-01,2024-Q1,0.31193066,1,Medium Risk,0.0
+tricida,2024-01-01,2024-Q1,0.31190982,1,Medium Risk,0.0
+digimarc,2024-01-01,2024-Q1,0.31170028,1,Medium Risk,0.0
+magnite,2024-04-01,2024-Q2,0.3116669,1,Medium Risk,0.0
+view,2024-04-01,2024-Q2,0.31160626,1,Medium Risk,0.0
+yext,2024-04-01,2024-Q2,0.30931365,1,Medium Risk,1.0
+eventbrite,2024-04-01,2024-Q2,0.3081658,1,Medium Risk,0.0
+etsy,2024-01-01,2024-Q1,0.30804852,1,Medium Risk,0.0
+elastic,2024-04-01,2024-Q2,0.3072663,1,Medium Risk,0.0
+2u,2024-04-01,2024-Q2,0.30710176,1,Medium Risk,0.0
+pure storage,2024-04-01,2024-Q2,0.30680382,1,Medium Risk,0.0
+chewy,2024-04-01,2024-Q2,0.30655578,1,Medium Risk,0.0
+appfolio,2024-01-01,2024-Q1,0.30541393,1,Medium Risk,0.0
+8x8,2024-04-01,2024-Q2,0.30509076,1,Medium Risk,0.0
+alteryx,2024-04-01,2024-Q2,0.3043544,1,Medium Risk,0.0
+bird,2024-04-01,2024-Q2,0.3041512,1,Medium Risk,0.0
+tenable,2024-04-01,2024-Q2,0.3040933,1,Medium Risk,0.0
+invitae,2024-01-01,2024-Q1,0.30376288,1,Medium Risk,0.0
+paypal,2024-04-01,2024-Q2,0.30313966,1,Medium Risk,0.0
+viasat,2024-04-01,2024-Q2,0.3028034,1,Medium Risk,0.0
+pagerduty,2024-04-01,2024-Q2,0.30264264,1,Medium Risk,0.0
+planet,2024-04-01,2024-Q2,0.30250287,1,Medium Risk,0.0
+synlogic,2024-01-01,2024-Q1,0.30231467,1,Medium Risk,0.0
+fortinet,2024-04-01,2024-Q2,0.30219564,1,Medium Risk,0.0
+apple,2024-04-01,2024-Q2,0.30210572,1,Medium Risk,1.0
+blackline,2024-04-01,2024-Q2,0.30144584,1,Medium Risk,0.0
+take-two interactive,2024-04-01,2024-Q2,0.30140162,1,Medium Risk,0.0
+guidewire,2024-01-01,2024-Q1,0.30132148,1,Medium Risk,0.0
+cardlytics,2024-04-01,2024-Q2,0.30108526,1,Medium Risk,0.0
+expedia,2024-04-01,2024-Q2,0.30065453,1,Medium Risk,1.0
+docusign,2024-04-01,2024-Q2,0.30053082,1,Medium Risk,0.0
+enphase energy,2024-04-01,2024-Q2,0.30051494,1,Medium Risk,0.0
+amazon,2024-04-01,2024-Q2,0.29965433,1,Low Risk,1.0
+zscaler,2024-04-01,2024-Q2,0.29921466,1,Low Risk,0.0
+ebay,2024-04-01,2024-Q2,0.29835963,1,Low Risk,0.0
+enphase energy,2023-07-01,2023-Q3,0.2979374,1,Low Risk,0.0
+workday,2024-04-01,2024-Q2,0.29555246,1,Low Risk,0.0
+redfin,2024-04-01,2024-Q2,0.29483914,1,Low Risk,0.0
+solaredge,2024-04-01,2024-Q2,0.29481244,1,Low Risk,0.0
+tricida,2024-04-01,2024-Q2,0.29386225,1,Low Risk,0.0
+tesla,2024-04-01,2024-Q2,0.29316622,1,Low Risk,1.0
+everbridge,2024-04-01,2024-Q2,0.29295328,1,Low Risk,0.0
+liveperson,2024-04-01,2024-Q2,0.29248604,1,Low Risk,0.0
+medtronic,2024-04-01,2024-Q2,0.28983802,1,Low Risk,0.0
+splunk,2024-04-01,2024-Q2,0.2897658,1,Low Risk,0.0
+criteo,2024-04-01,2024-Q2,0.28955227,1,Low Risk,1.0
+blackbaud,2023-07-01,2023-Q3,0.289256,1,Low Risk,0.0
+sqz biotech,2024-04-01,2024-Q2,0.2882577,1,Low Risk,0.0
+latch,2024-04-01,2024-Q2,0.28676638,1,Low Risk,0.0
+new relic,2024-04-01,2024-Q2,0.2866899,1,Low Risk,1.0
+stitch fix,2024-04-01,2024-Q2,0.28651628,1,Low Risk,0.0
+gopro,2024-04-01,2024-Q2,0.28560004,1,Low Risk,0.0
+groupon,2024-04-01,2024-Q2,0.28538066,1,Low Risk,0.0
+fisker,2024-04-01,2024-Q2,0.28446862,1,Low Risk,1.0
+zillow,2024-04-01,2024-Q2,0.2839996,0,Low Risk,0.0
+nikola,2024-04-01,2024-Q2,0.28239423,0,Low Risk,0.0
+pinterest,2024-04-01,2024-Q2,0.28150818,0,Low Risk,0.0
+juniper networks,2024-04-01,2024-Q2,0.28146604,0,Low Risk,0.0
+impinj,2024-04-01,2024-Q2,0.281207,0,Low Risk,0.0
+dropbox,2024-04-01,2024-Q2,0.28077272,0,Low Risk,0.0
+kaspien,2024-04-01,2024-Q2,0.2803527,0,Low Risk,0.0
+akamai,2024-04-01,2024-Q2,0.27946427,0,Low Risk,0.0
+upwork,2024-04-01,2024-Q2,0.27924618,0,Low Risk,0.0
+siriusxm,2024-04-01,2024-Q2,0.27917722,0,Low Risk,0.0
+lam research,2024-01-01,2024-Q1,0.2791273,0,Low Risk,0.0
+rapid7,2024-04-01,2024-Q2,0.2786499,0,Low Risk,0.0
+nutanix,2024-04-01,2024-Q2,0.27854598,0,Low Risk,0.0
+beyond meat,2024-04-01,2024-Q2,0.27820545,0,Low Risk,0.0
+zuora,2024-04-01,2024-Q2,0.27818787,0,Low Risk,0.0
+wayfair,2024-04-01,2024-Q2,0.2777538,0,Low Risk,0.0
+contrafect,2024-04-01,2024-Q2,0.2774379,0,Low Risk,0.0
+fubotv,2024-04-01,2024-Q2,0.2772908,0,Low Risk,0.0
+block,2024-04-01,2024-Q2,0.27725282,0,Low Risk,0.0
+cimpress,2024-04-01,2024-Q2,0.27682936,0,Low Risk,0.0
+presto,2023-07-01,2023-Q3,0.27594867,0,Low Risk,0.0
+okta,2024-04-01,2024-Q2,0.27594677,0,Low Risk,0.0
+hubspot,2024-04-01,2024-Q2,0.2750661,0,Low Risk,0.0
+pegasystems,2023-07-01,2023-Q3,0.27405724,0,Low Risk,1.0
+intel,2024-04-01,2024-Q2,0.27396983,0,Low Risk,1.0
+guardant health,2024-04-01,2024-Q2,0.2739355,0,Low Risk,0.0
+chegg,2024-04-01,2024-Q2,0.27341688,0,Low Risk,0.0
+adaptive biotechnologies,2024-04-01,2024-Q2,0.27338302,0,Low Risk,0.0
+biomarin,2024-04-01,2024-Q2,0.27296105,0,Low Risk,0.0
+pure storage,2023-07-01,2023-Q3,0.27282536,0,Low Risk,0.0
+varonis,2024-04-01,2024-Q2,0.27268508,0,Low Risk,0.0
+sonos,2024-04-01,2024-Q2,0.27241966,0,Low Risk,0.0
+teladoc health,2024-04-01,2024-Q2,0.27182314,0,Low Risk,0.0
+twilio,2024-04-01,2024-Q2,0.27154043,0,Low Risk,0.0
+tenable,2023-07-01,2023-Q3,0.27118146,0,Low Risk,0.0
+lendingtree,2023-07-01,2023-Q3,0.2708039,0,Low Risk,0.0
+zoom,2024-04-01,2024-Q2,0.27070427,0,Low Risk,0.0
+natera,2024-04-01,2024-Q2,0.27055702,0,Low Risk,0.0
+aptiv,2024-04-01,2024-Q2,0.27031022,0,Low Risk,0.0
+quanterix,2024-04-01,2024-Q2,0.27009276,0,Low Risk,0.0
+truecar,2024-04-01,2024-Q2,0.27009276,0,Low Risk,0.0
+cue,2024-04-01,2024-Q2,0.2700927,0,Low Risk,0.0
+fate therapeutics,2024-04-01,2024-Q2,0.26937684,0,Low Risk,0.0
+invitae,2024-04-01,2024-Q2,0.2692996,0,Low Risk,0.0
+presto,2024-04-01,2024-Q2,0.26926115,0,Low Risk,0.0
+snap,2024-04-01,2024-Q2,0.26898006,0,Low Risk,0.0
+tripadvisor,2024-04-01,2024-Q2,0.2687517,0,Low Risk,0.0
+lordstown motors,2024-04-01,2024-Q2,0.26737988,0,Low Risk,0.0
+micron,2024-04-01,2024-Q2,0.26653716,0,Low Risk,0.0
+meta,2024-04-01,2024-Q2,0.2656998,0,Low Risk,0.0
+liveramp,2024-04-01,2024-Q2,0.2640574,0,Low Risk,0.0
+twist bioscience,2024-04-01,2024-Q2,0.2635136,0,Low Risk,0.0
+canoo,2024-04-01,2024-Q2,0.2632981,0,Low Risk,0.0
+domo,2024-04-01,2024-Q2,0.2632608,0,Low Risk,0.0
+e inc.,2024-04-01,2024-Q2,0.26258573,0,Low Risk,0.0
+cisco,2024-04-01,2024-Q2,0.2624613,0,Low Risk,0.0
+acxiom,2023-07-01,2023-Q3,0.26243117,0,Low Risk,0.0
+microsoft,2024-04-01,2024-Q2,0.26218054,0,Low Risk,1.0
+absolute software,2023-07-01,2023-Q3,0.26015675,0,Low Risk,0.0
+take-two,2023-07-01,2023-Q3,0.259945,0,Low Risk,0.0
+ringcentral,2024-04-01,2024-Q2,0.25858107,0,Low Risk,0.0
+etsy,2024-04-01,2024-Q2,0.25850177,0,Low Risk,0.0
+codexis,2024-04-01,2024-Q2,0.25804773,0,Low Risk,0.0
+salesforce,2024-04-01,2024-Q2,0.2580257,0,Low Risk,0.0
+roku,2024-04-01,2024-Q2,0.2571011,0,Low Risk,0.0
+oracle,2024-01-01,2024-Q1,0.25631672,0,Low Risk,0.0
+blue apron,2024-04-01,2024-Q2,0.25603557,0,Low Risk,0.0
+illumina,2024-04-01,2024-Q2,0.25555065,0,Low Risk,0.0
+editas medicine,2024-04-01,2024-Q2,0.25404638,0,Low Risk,0.0
+google,2024-04-01,2024-Q2,0.24999836,0,Low Risk,1.0
+netapp,2024-01-01,2024-Q1,0.24982435,0,Low Risk,0.0
+digimarc,2024-04-01,2024-Q2,0.24978085,0,Low Risk,0.0
+nanostring technologies,2024-04-01,2024-Q2,0.24966224,0,Low Risk,0.0
+block,2023-07-01,2023-Q3,0.24881752,0,Low Risk,0.0
+everquote,2024-04-01,2024-Q2,0.2485842,0,Low Risk,0.0
+qualcomm,2024-04-01,2024-Q2,0.24822292,0,Low Risk,0.0
+impinj,2023-07-01,2023-Q3,0.24775788,0,Low Risk,0.0
+personalis,2024-04-01,2024-Q2,0.24715285,0,Low Risk,0.0
+nanostring,2024-04-01,2024-Q2,0.24557942,0,Low Risk,0.0
+guidewire,2024-04-01,2024-Q2,0.24501823,0,Low Risk,0.0
+dell,2024-04-01,2024-Q2,0.2437227,0,Low Risk,0.0
+adobe,2024-04-01,2024-Q2,0.24306306,0,Low Risk,0.0
+electronic arts,2024-04-01,2024-Q2,0.24292065,0,Low Risk,0.0
+irobot,2024-04-01,2024-Q2,0.24279624,0,Low Risk,0.0
+kaspien,2023-07-01,2023-Q3,0.24207021,0,Low Risk,0.0
+synlogic,2024-04-01,2024-Q2,0.23981224,0,Low Risk,0.0
+phunware,2024-04-01,2024-Q2,0.23909195,0,Low Risk,0.0
+f5,2024-04-01,2024-Q2,0.23484682,0,Low Risk,0.0
+seagate,2024-01-01,2024-Q1,0.23420116,0,Low Risk,0.0
+absolute software,2024-01-01,2024-Q1,0.2310951,0,Low Risk,0.0
+appfolio,2024-04-01,2024-Q2,0.22945486,0,Low Risk,0.0
+etsy,2023-07-01,2023-Q3,0.22829975,0,Low Risk,0.0
+e inc.,2024-01-01,2024-Q1,0.2273344,0,Low Risk,0.0
+dhi group,2024-01-01,2024-Q1,0.22531474,0,Low Risk,0.0
+netapp,2024-04-01,2024-Q2,0.2211214,0,Low Risk,0.0
+fisker,2023-07-01,2023-Q3,0.21910645,0,Low Risk,0.0
+coherent,2024-01-01,2024-Q1,0.21897247,0,Low Risk,0.0
+blackbaud,2024-01-01,2024-Q1,0.21498413,0,Low Risk,0.0
+ibm,2024-01-01,2024-Q1,0.21464601,0,Low Risk,1.0
+autodesk,2024-01-01,2024-Q1,0.2112224,0,Low Risk,0.0
+pegasystems,2024-01-01,2024-Q1,0.20875081,0,Low Risk,0.0
+dhi group,2024-04-01,2024-Q2,0.20813371,0,Low Risk,0.0
+seagate,2024-04-01,2024-Q2,0.20794864,0,Low Risk,0.0
+lendingtree,2024-04-01,2024-Q2,0.20527051,0,Low Risk,0.0
+dell,2024-01-01,2024-Q1,0.20400897,0,Low Risk,1.0
+oracle,2024-04-01,2024-Q2,0.20259166,0,Low Risk,0.0
+lam research,2024-04-01,2024-Q2,0.19994818,0,Low Risk,0.0
+absolute software,2024-04-01,2024-Q2,0.19956946,0,Low Risk,0.0
+luminar,2023-07-01,2023-Q3,0.19897488,0,Low Risk,0.0
+logitech,2024-01-01,2024-Q1,0.19896688,0,Low Risk,0.0
+f5,2024-01-01,2024-Q1,0.19716942,0,Low Risk,0.0
+nanostring technologies,2023-07-01,2023-Q3,0.19661981,0,Low Risk,0.0
+acxiom,2024-04-01,2024-Q2,0.19621879,0,Low Risk,0.0
+ibm,2024-04-01,2024-Q2,0.19518453,0,Low Risk,0.0
+national instruments,2024-01-01,2024-Q1,0.19311824,0,Low Risk,0.0
+analog devices,2024-01-01,2024-Q1,0.19304602,0,Low Risk,0.0
+luminar,2024-01-01,2024-Q1,0.19247606,0,Low Risk,0.0
+pegasystems,2024-04-01,2024-Q2,0.19121541,0,Low Risk,0.0
+acxiom,2024-01-01,2024-Q1,0.19051926,0,Low Risk,0.0
+qualcomm,2024-01-01,2024-Q1,0.18880926,0,Low Risk,0.0
+lendingtree,2024-01-01,2024-Q1,0.18844034,0,Low Risk,0.0
+blackbaud,2024-04-01,2024-Q2,0.18457776,0,Low Risk,0.0
+pure storage,2023-10-01,2023-Q4,0.18371795,0,Low Risk,0.0
+coherent,2024-04-01,2024-Q2,0.18265572,0,Low Risk,0.0
+match group,2024-01-01,2024-Q1,0.18054743,0,Low Risk,0.0
+take-two,2024-01-01,2024-Q1,0.17977037,0,Low Risk,0.0
+analog devices,2024-04-01,2024-Q2,0.17908284,0,Low Risk,0.0
+national instruments,2024-04-01,2024-Q2,0.17736563,0,Low Risk,0.0
+autodesk,2024-04-01,2024-Q2,0.17595989,0,Low Risk,0.0
+synopsys,2024-01-01,2024-Q1,0.17509025,0,Low Risk,0.0
+logitech,2023-10-01,2023-Q4,0.16894442,0,Low Risk,0.0
+logitech,2024-04-01,2024-Q2,0.16605589,0,Low Risk,0.0
+autodesk,2023-10-01,2023-Q4,0.16551901,0,Low Risk,0.0
+match group,2024-04-01,2024-Q2,0.16157302,0,Low Risk,0.0
+western digital,2023-10-01,2023-Q4,0.15647188,0,Low Risk,0.0
+view,2023-10-01,2023-Q4,0.15647188,0,Low Risk,0.0
+synopsys,2024-04-01,2024-Q2,0.15498838,0,Low Risk,0.0
+take-two interactive,2023-10-01,2023-Q4,0.15417612,0,Low Risk,0.0
+expedia,2023-10-01,2023-Q4,0.15386312,0,Low Risk,1.0
+magnite,2023-10-01,2023-Q4,0.15380979,0,Low Risk,0.0
+compass,2023-10-01,2023-Q4,0.15380979,0,Low Risk,0.0
+apple,2023-10-01,2023-Q4,0.15380979,0,Low Risk,0.0
+yext,2023-10-01,2023-Q4,0.15349206,0,Low Risk,0.0
+fortinet,2023-10-01,2023-Q4,0.15326104,0,Low Risk,0.0
+ebay,2023-10-01,2023-Q4,0.15274908,0,Low Risk,1.0
+redfin,2023-10-01,2023-Q4,0.15274908,0,Low Risk,0.0
+chegg,2023-10-01,2023-Q4,0.15269098,0,Low Risk,0.0
+godaddy,2023-10-01,2023-Q4,0.15265116,0,Low Risk,0.0
+planet,2023-10-01,2023-Q4,0.15265116,0,Low Risk,0.0
+netflix,2023-10-01,2023-Q4,0.15265116,0,Low Risk,0.0
+sea,2023-10-01,2023-Q4,0.15265116,0,Low Risk,0.0
+zscaler,2023-10-01,2023-Q4,0.15220343,0,Low Risk,0.0
+paypal,2023-10-01,2023-Q4,0.15220343,0,Low Risk,0.0
+amazon,2023-10-01,2023-Q4,0.15210582,0,Low Risk,1.0
+sqz biotech,2023-10-01,2023-Q4,0.15201153,0,Low Risk,0.0
+okta,2023-10-01,2023-Q4,0.1519062,0,Low Risk,0.0
+latch,2023-10-01,2023-Q4,0.15144815,0,Low Risk,0.0
+cimpress,2023-10-01,2023-Q4,0.15136306,0,Low Risk,0.0
+pinterest,2023-10-01,2023-Q4,0.15128703,0,Low Risk,0.0
+docusign,2023-10-01,2023-Q4,0.15115738,0,Low Risk,0.0
+2u,2023-10-01,2023-Q4,0.15114187,0,Low Risk,0.0
+eventbrite,2023-10-01,2023-Q4,0.15114187,0,Low Risk,0.0
+uber,2023-10-01,2023-Q4,0.15114187,0,Low Risk,0.0
+alteryx,2023-10-01,2023-Q4,0.15114187,0,Low Risk,0.0
+lyft,2023-10-01,2023-Q4,0.15114187,0,Low Risk,0.0
+blue apron,2023-10-01,2023-Q4,0.15114187,0,Low Risk,0.0
+everbridge,2023-10-01,2023-Q4,0.15114187,0,Low Risk,0.0
+upwork,2023-10-01,2023-Q4,0.15105477,0,Low Risk,0.0
+hubspot,2023-10-01,2023-Q4,0.15105477,0,Low Risk,0.0
+lordstown motors,2023-10-01,2023-Q4,0.15070628,0,Low Risk,0.0
+8x8,2023-10-01,2023-Q4,0.15061639,0,Low Risk,0.0
+pagerduty,2023-10-01,2023-Q4,0.15061639,0,Low Risk,0.0
+new relic,2023-10-01,2023-Q4,0.15061639,0,Low Risk,0.0
+blackline,2023-10-01,2023-Q4,0.15060097,0,Low Risk,0.0
+dropbox,2023-10-01,2023-Q4,0.15040144,0,Low Risk,0.0
+tesla,2023-10-01,2023-Q4,0.15040144,0,Low Risk,0.0
+siriusxm,2023-10-01,2023-Q4,0.15040144,0,Low Risk,0.0
+sabre,2023-10-01,2023-Q4,0.14999978,0,Low Risk,0.0
+nikola,2023-10-01,2023-Q4,0.14999978,0,Low Risk,0.0
+bird,2023-10-01,2023-Q4,0.14999978,0,Low Risk,1.0
+zebra technologies,2023-10-01,2023-Q4,0.14999978,0,Low Risk,0.0
+roku,2023-10-01,2023-Q4,0.14986274,0,Low Risk,0.0
+codexis,2023-10-01,2023-Q4,0.14986274,0,Low Risk,0.0
+workday,2023-10-01,2023-Q4,0.1494776,0,Low Risk,0.0
+cardlytics,2023-10-01,2023-Q4,0.14946224,0,Low Risk,0.0
+carvana,2023-10-01,2023-Q4,0.14936009,0,Low Risk,0.0
+zuora,2023-10-01,2023-Q4,0.14936009,0,Low Risk,0.0
+wayfair,2023-10-01,2023-Q4,0.14936009,0,Low Risk,0.0
+viasat,2023-10-01,2023-Q4,0.14936009,0,Low Risk,1.0
+snap,2023-10-01,2023-Q4,0.14921132,0,Low Risk,1.0
+meta,2023-10-01,2023-Q4,0.14921132,0,Low Risk,1.0
+medtronic,2023-10-01,2023-Q4,0.1491346,0,Low Risk,0.0
+twist bioscience,2023-10-01,2023-Q4,0.14874949,0,Low Risk,0.0
+zillow,2023-10-01,2023-Q4,0.14851741,0,Low Risk,1.0
+nanostring,2023-10-01,2023-Q4,0.14817676,0,Low Risk,0.0
+elastic,2023-10-01,2023-Q4,0.14808813,0,Low Risk,0.0
+invitae,2023-10-01,2023-Q4,0.14778234,0,Low Risk,1.0
+groupon,2023-10-01,2023-Q4,0.14778234,0,Low Risk,0.0
+natera,2023-10-01,2023-Q4,0.14778234,0,Low Risk,0.0
+guardant health,2023-10-01,2023-Q4,0.14771819,0,Low Risk,0.0
+biomarin,2023-10-01,2023-Q4,0.14757076,0,Low Risk,0.0
+rapid7,2023-10-01,2023-Q4,0.14725135,0,Low Risk,0.0
+fubotv,2023-10-01,2023-Q4,0.14725135,0,Low Risk,0.0
+truecar,2023-10-01,2023-Q4,0.14654562,0,Low Risk,0.0
+nutanix,2023-10-01,2023-Q4,0.14653376,0,Low Risk,0.0
+contrafect,2023-10-01,2023-Q4,0.14653376,0,Low Risk,0.0
+zoom,2023-10-01,2023-Q4,0.14639701,0,Low Risk,0.0
+sonos,2023-10-01,2023-Q4,0.14632647,0,Low Risk,1.0
+adaptive biotechnologies,2023-10-01,2023-Q4,0.14615478,0,Low Risk,0.0
+teladoc health,2023-10-01,2023-Q4,0.14608186,0,Low Risk,0.0
+personalis,2023-10-01,2023-Q4,0.14601831,0,Low Risk,0.0
+canoo,2023-10-01,2023-Q4,0.14600648,0,Low Risk,0.0
+beyond meat,2023-10-01,2023-Q4,0.14562866,0,Low Risk,1.0
+splunk,2023-10-01,2023-Q4,0.1453085,0,Low Risk,1.0
+synlogic,2023-10-01,2023-Q4,0.14530571,0,Low Risk,0.0
+seagate,2023-10-01,2023-Q4,0.14529027,0,Low Risk,0.0
+twilio,2023-10-01,2023-Q4,0.14499252,0,Low Risk,1.0
+quanterix,2023-10-01,2023-Q4,0.14499252,0,Low Risk,0.0
+tricida,2023-10-01,2023-Q4,0.14491759,0,Low Risk,0.0
+digimarc,2023-10-01,2023-Q4,0.14446987,0,Low Risk,0.0
+editas medicine,2023-10-01,2023-Q4,0.14376353,0,Low Risk,0.0
+fate therapeutics,2023-10-01,2023-Q4,0.14376353,0,Low Risk,0.0
+cue,2023-10-01,2023-Q4,0.14376353,0,Low Risk,0.0
+stitch fix,2023-10-01,2023-Q4,0.1411229,0,Low Risk,1.0
+criteo,2023-10-01,2023-Q4,0.1411229,0,Low Risk,0.0
+phunware,2023-10-01,2023-Q4,0.13901359,0,Low Risk,0.0
+micron,2023-10-01,2023-Q4,0.13847998,0,Low Risk,0.0
+liveperson,2023-10-01,2023-Q4,0.13710126,0,Low Risk,0.0
+salesforce,2023-10-01,2023-Q4,0.13546503,0,Low Risk,0.0
+tripadvisor,2023-10-01,2023-Q4,0.13524069,0,Low Risk,1.0
+dell,2023-10-01,2023-Q4,0.13489921,0,Low Risk,0.0
+intel,2023-10-01,2023-Q4,0.13471043,0,Low Risk,1.0
+everquote,2023-10-01,2023-Q4,0.13413571,0,Low Risk,0.0
+ringcentral,2023-10-01,2023-Q4,0.13399054,0,Low Risk,0.0
+match group,2023-10-01,2023-Q4,0.1333927,0,Low Risk,0.0
+dhi group,2023-10-01,2023-Q4,0.13305157,0,Low Risk,0.0
+illumina,2023-10-01,2023-Q4,0.1319268,0,Low Risk,0.0
+cisco,2023-10-01,2023-Q4,0.13083851,0,Low Risk,0.0
+akamai,2023-10-01,2023-Q4,0.1307918,0,Low Risk,0.0
+irobot,2023-10-01,2023-Q4,0.12986547,0,Low Risk,0.0
+adobe,2023-10-01,2023-Q4,0.1297139,0,Low Risk,0.0
+luminar,2023-10-01,2023-Q4,0.12950952,0,Low Risk,0.0
+google,2023-10-01,2023-Q4,0.12931143,0,Low Risk,1.0
+varonis,2023-10-01,2023-Q4,0.12896904,0,Low Risk,0.0
+microsoft,2023-10-01,2023-Q4,0.12854439,0,Low Risk,0.0
+guidewire,2023-10-01,2023-Q4,0.12843712,0,Low Risk,0.0
+liveramp,2023-10-01,2023-Q4,0.12840775,0,Low Risk,0.0
+lendingtree,2023-10-01,2023-Q4,0.1281224,0,Low Risk,0.0
+netapp,2023-10-01,2023-Q4,0.12805083,0,Low Risk,0.0
+electronic arts,2023-10-01,2023-Q4,0.1279467,0,Low Risk,0.0
+appfolio,2023-10-01,2023-Q4,0.12770085,0,Low Risk,0.0
+lam research,2023-10-01,2023-Q4,0.1276631,0,Low Risk,0.0
+solaredge,2023-10-01,2023-Q4,0.12693992,0,Low Risk,0.0
+analog devices,2023-10-01,2023-Q4,0.12572058,0,Low Risk,1.0
+ibm,2023-10-01,2023-Q4,0.12572058,0,Low Risk,0.0
+take-two,2023-10-01,2023-Q4,0.12435634,0,Low Risk,0.0
+national instruments,2023-10-01,2023-Q4,0.12377033,0,Low Risk,0.0
+acxiom,2023-10-01,2023-Q4,0.12335166,0,Low Risk,0.0
+aptiv,2023-10-01,2023-Q4,0.12187921,0,Low Risk,0.0
+synopsys,2023-10-01,2023-Q4,0.12139862,0,Low Risk,0.0
+blackbaud,2023-10-01,2023-Q4,0.11988971,0,Low Risk,0.0
+coherent,2023-10-01,2023-Q4,0.11988894,0,Low Risk,0.0
+nanostring technologies,2023-10-01,2023-Q4,0.11938974,0,Low Risk,0.0
+fisker,2023-10-01,2023-Q4,0.11887838,0,Low Risk,0.0
+f5,2023-10-01,2023-Q4,0.117899,0,Low Risk,1.0
+e inc.,2023-10-01,2023-Q4,0.11707205,0,Low Risk,0.0
+qualcomm,2023-10-01,2023-Q4,0.115527816,0,Low Risk,1.0
+tenable,2023-10-01,2023-Q4,0.11406889,0,Low Risk,0.0
+impinj,2023-10-01,2023-Q4,0.11272528,0,Low Risk,0.0
+pegasystems,2023-10-01,2023-Q4,0.11272528,0,Low Risk,0.0
+absolute software,2023-10-01,2023-Q4,0.11185938,0,Low Risk,0.0
+oracle,2023-10-01,2023-Q4,0.11046543,0,Low Risk,0.0
