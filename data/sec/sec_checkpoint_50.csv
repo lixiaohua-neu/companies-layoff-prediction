@@ -13044,6 +13044,7 @@ analog devices,2023-07-29,net_income,877019000,10-Q,2023,Q3
 analog devices,2023-07-29,net_income,877019000,10-Q,2024,Q3
 analog devices,2023-10-28,net_income,3314579000,10-K,2023,FY
 analog devices,2023-10-28,net_income,3314579000,10-K,2024,FY
+analog devices,2023-10-28,net_income,3314579000,10-K,2025,FY
 analog devices,2024-02-03,net_income,462727000,10-Q,2024,Q1
 analog devices,2024-02-03,net_income,462727000,10-Q,2025,Q1
 analog devices,2024-05-04,net_income,764969000,10-Q,2024,Q2
@@ -13055,11 +13056,13 @@ analog devices,2024-08-03,net_income,1157201000,10-Q,2025,Q3
 analog devices,2024-08-03,net_income,392232000,10-Q,2024,Q3
 analog devices,2024-08-03,net_income,392232000,10-Q,2025,Q3
 analog devices,2024-11-02,net_income,1635273000,10-K,2024,FY
+analog devices,2024-11-02,net_income,1635273000,10-K,2025,FY
 analog devices,2025-02-01,net_income,391316000,10-Q,2025,Q1
 analog devices,2025-05-03,net_income,961086000,10-Q,2025,Q2
 analog devices,2025-05-03,net_income,569770000,10-Q,2025,Q2
 analog devices,2025-08-02,net_income,1479604000,10-Q,2025,Q3
 analog devices,2025-08-02,net_income,518518000,10-Q,2025,Q3
+analog devices,2025-11-01,net_income,2267342000,10-K,2025,FY
 analog devices,2007-11-03,operating_expenses,939553000,10-K,2009,FY
 analog devices,2008-08-02,operating_expenses,709330000,10-Q,2009,Q3
 analog devices,2008-08-02,operating_expenses,240604000,10-Q,2009,Q3
@@ -13336,6 +13339,7 @@ analog devices,2023-07-29,operating_expenses,1032122000,10-Q,2023,Q3
 analog devices,2023-07-29,operating_expenses,1032122000,10-Q,2024,Q3
 analog devices,2023-10-28,operating_expenses,4054106000,10-K,2023,FY
 analog devices,2023-10-28,operating_expenses,4054106000,10-K,2024,FY
+analog devices,2023-10-28,operating_expenses,4054106000,10-K,2025,FY
 analog devices,2024-02-03,operating_expenses,887977000,10-Q,2024,Q1
 analog devices,2024-02-03,operating_expenses,887977000,10-Q,2025,Q1
 analog devices,2024-05-04,operating_expenses,1681889000,10-Q,2024,Q2
@@ -13347,11 +13351,13 @@ analog devices,2024-08-03,operating_expenses,2501809000,10-Q,2025,Q3
 analog devices,2024-08-03,operating_expenses,819920000,10-Q,2024,Q3
 analog devices,2024-08-03,operating_expenses,819920000,10-Q,2025,Q3
 analog devices,2024-11-02,operating_expenses,3348545000,10-K,2024,FY
+analog devices,2024-11-02,operating_expenses,3348545000,10-K,2025,FY
 analog devices,2025-02-01,operating_expenses,938990000,10-Q,2025,Q1
 analog devices,2025-05-03,operating_expenses,1872656000,10-Q,2025,Q2
 analog devices,2025-05-03,operating_expenses,933666000,10-Q,2025,Q2
 analog devices,2025-08-02,operating_expenses,2844376000,10-Q,2025,Q3
 analog devices,2025-08-02,operating_expenses,971720000,10-Q,2025,Q3
+analog devices,2025-11-01,operating_expenses,3840982000,10-K,2025,FY
 analog devices,2007-11-03,operating_income,568723000,10-K,2009,FY
 analog devices,2008-08-02,operating_income,464288000,10-Q,2009,Q3
 analog devices,2008-08-02,operating_income,161190000,10-Q,2009,Q3
@@ -13628,6 +13634,7 @@ analog devices,2023-07-29,operating_income,929493000,10-Q,2023,Q3
 analog devices,2023-07-29,operating_income,929493000,10-Q,2024,Q3
 analog devices,2023-10-28,operating_income,3823112000,10-K,2023,FY
 analog devices,2023-10-28,operating_income,3823112000,10-K,2024,FY
+analog devices,2023-10-28,operating_income,3823112000,10-K,2025,FY
 analog devices,2024-02-03,operating_income,585964000,10-Q,2024,Q1
 analog devices,2024-02-03,operating_income,585964000,10-Q,2025,Q1
 analog devices,2024-05-04,operating_income,972087000,10-Q,2024,Q2
@@ -13639,11 +13646,13 @@ analog devices,2024-08-03,operating_income,1463406000,10-Q,2025,Q3
 analog devices,2024-08-03,operating_income,491319000,10-Q,2024,Q3
 analog devices,2024-08-03,operating_income,491319000,10-Q,2025,Q3
 analog devices,2024-11-02,operating_income,2032798000,10-K,2024,FY
+analog devices,2024-11-02,operating_income,2032798000,10-K,2025,FY
 analog devices,2025-02-01,operating_income,491313000,10-Q,2025,Q1
 analog devices,2025-05-03,operating_income,1169257000,10-Q,2025,Q2
 analog devices,2025-05-03,operating_income,677944000,10-Q,2025,Q2
 analog devices,2025-08-02,operating_income,1987285000,10-Q,2025,Q3
 analog devices,2025-08-02,operating_income,818028000,10-Q,2025,Q3
+analog devices,2025-11-01,operating_income,2932496000,10-K,2025,FY
 analog devices,2007-11-03,rd_expense,509553000,10-K,2009,FY
 analog devices,2008-08-02,rd_expense,400029000,10-Q,2009,Q3
 analog devices,2008-08-02,rd_expense,135837000,10-Q,2009,Q3
@@ -13920,6 +13929,7 @@ analog devices,2023-07-29,rd_expense,423751000,10-Q,2023,Q3
 analog devices,2023-07-29,rd_expense,423751000,10-Q,2024,Q3
 analog devices,2023-10-28,rd_expense,1660194000,10-K,2023,FY
 analog devices,2023-10-28,rd_expense,1660194000,10-K,2024,FY
+analog devices,2023-10-28,rd_expense,1660194000,10-K,2025,FY
 analog devices,2024-02-03,rd_expense,391427000,10-Q,2024,Q1
 analog devices,2024-02-03,rd_expense,391427000,10-Q,2025,Q1
 analog devices,2024-05-04,rd_expense,746289000,10-Q,2024,Q2
@@ -13931,11 +13941,13 @@ analog devices,2024-08-03,rd_expense,1108960000,10-Q,2025,Q3
 analog devices,2024-08-03,rd_expense,362671000,10-Q,2024,Q3
 analog devices,2024-08-03,rd_expense,362671000,10-Q,2025,Q3
 analog devices,2024-11-02,rd_expense,1487863000,10-K,2024,FY
+analog devices,2024-11-02,rd_expense,1487863000,10-K,2025,FY
 analog devices,2025-02-01,rd_expense,402892000,10-Q,2025,Q1
 analog devices,2025-05-03,rd_expense,844729000,10-Q,2025,Q2
 analog devices,2025-05-03,rd_expense,441837000,10-Q,2025,Q2
 analog devices,2025-08-02,rd_expense,1298980000,10-Q,2025,Q3
 analog devices,2025-08-02,rd_expense,454251000,10-Q,2025,Q3
+analog devices,2025-11-01,rd_expense,1766001000,10-K,2025,FY
 analog devices,2009-10-31,cash,30744000,10-K,2010,FY
 analog devices,2010-10-30,cash,37460000,10-K,2010,FY
 analog devices,2010-10-30,cash,37460000,10-K,2011,FY
@@ -14117,9 +14129,11 @@ analog devices,2024-11-02,total_assets,48228277000,10-K,2024,FY
 analog devices,2024-11-02,total_assets,48228277000,10-Q,2025,Q1
 analog devices,2024-11-02,total_assets,48228277000,10-Q,2025,Q2
 analog devices,2024-11-02,total_assets,48228277000,10-Q,2025,Q3
+analog devices,2024-11-02,total_assets,48228277000,10-K,2025,FY
 analog devices,2025-02-01,total_assets,47967546000,10-Q,2025,Q1
 analog devices,2025-05-03,total_assets,47344487000,10-Q,2025,Q2
 analog devices,2025-08-02,total_assets,48192601000,10-Q,2025,Q3
+analog devices,2025-11-01,total_assets,47992712000,10-K,2025,FY
 analog devices,2008-11-01,stockholders_equity,2420263000,10-Q,2009,Q3
 analog devices,2008-11-01,stockholders_equity,2420263000,10-K,2009,FY
 analog devices,2009-08-01,stockholders_equity,2458365000,10-Q,2009,Q3
@@ -14247,9 +14261,11 @@ analog devices,2024-11-02,stockholders_equity,35176317000,10-K,2024,FY
 analog devices,2024-11-02,stockholders_equity,35176317000,10-Q,2025,Q1
 analog devices,2024-11-02,stockholders_equity,35176317000,10-Q,2025,Q2
 analog devices,2024-11-02,stockholders_equity,35176317000,10-Q,2025,Q3
+analog devices,2024-11-02,stockholders_equity,35176317000,10-K,2025,FY
 analog devices,2025-02-01,stockholders_equity,35070535000,10-Q,2025,Q1
 analog devices,2025-05-03,stockholders_equity,35010620000,10-Q,2025,Q2
 analog devices,2025-08-02,stockholders_equity,34085842000,10-Q,2025,Q3
+analog devices,2025-11-01,stockholders_equity,33815755000,10-K,2025,FY
 analog devices,2007-11-03,gross_profit,1508276000,10-K,2009,FY
 analog devices,2008-08-02,gross_profit,1173618000,10-Q,2009,Q3
 analog devices,2008-08-02,gross_profit,401794000,10-Q,2009,Q3
@@ -14526,6 +14542,7 @@ analog devices,2023-07-29,gross_profit,1961615000,10-Q,2023,Q3
 analog devices,2023-07-29,gross_profit,1961615000,10-Q,2024,Q3
 analog devices,2023-10-28,gross_profit,7877218000,10-K,2023,FY
 analog devices,2023-10-28,gross_profit,7877218000,10-K,2024,FY
+analog devices,2023-10-28,gross_profit,7877218000,10-K,2025,FY
 analog devices,2024-02-03,gross_profit,1473941000,10-Q,2024,Q1
 analog devices,2024-02-03,gross_profit,1473941000,10-Q,2025,Q1
 analog devices,2024-05-04,gross_profit,2653976000,10-Q,2024,Q2
@@ -14537,11 +14554,13 @@ analog devices,2024-08-03,gross_profit,3965215000,10-Q,2025,Q3
 analog devices,2024-08-03,gross_profit,1311239000,10-Q,2024,Q3
 analog devices,2024-08-03,gross_profit,1311239000,10-Q,2025,Q3
 analog devices,2024-11-02,gross_profit,5381343000,10-K,2024,FY
+analog devices,2024-11-02,gross_profit,5381343000,10-K,2025,FY
 analog devices,2025-02-01,gross_profit,1430303000,10-Q,2025,Q1
 analog devices,2025-05-03,gross_profit,3041913000,10-Q,2025,Q2
 analog devices,2025-05-03,gross_profit,1611610000,10-Q,2025,Q2
 analog devices,2025-08-02,gross_profit,4831661000,10-Q,2025,Q3
 analog devices,2025-08-02,gross_profit,1789748000,10-Q,2025,Q3
+analog devices,2025-11-01,gross_profit,6773478000,10-K,2025,FY
 analog devices,2008-11-01,current_assets,2089577000,10-Q,2009,Q3
 analog devices,2008-11-01,current_assets,2089577000,10-K,2009,FY
 analog devices,2009-08-01,current_assets,2359633000,10-Q,2009,Q3
@@ -14669,9 +14688,11 @@ analog devices,2024-11-02,current_assets,5484654000,10-K,2024,FY
 analog devices,2024-11-02,current_assets,5484654000,10-Q,2025,Q1
 analog devices,2024-11-02,current_assets,5484654000,10-Q,2025,Q2
 analog devices,2024-11-02,current_assets,5484654000,10-Q,2025,Q3
+analog devices,2024-11-02,current_assets,5484654000,10-K,2025,FY
 analog devices,2025-02-01,current_assets,5733076000,10-Q,2025,Q1
 analog devices,2025-05-03,current_assets,5588537000,10-Q,2025,Q2
 analog devices,2025-08-02,current_assets,6924569000,10-Q,2025,Q3
+analog devices,2025-11-01,current_assets,7108061000,10-K,2025,FY
 analog devices,2008-11-01,current_liabilities,569058000,10-Q,2009,Q3
 analog devices,2008-11-01,current_liabilities,569058000,10-K,2009,FY
 analog devices,2009-08-01,current_liabilities,353926000,10-Q,2009,Q3
@@ -14799,9 +14820,11 @@ analog devices,2024-11-02,current_liabilities,2988280000,10-K,2024,FY
 analog devices,2024-11-02,current_liabilities,2988280000,10-Q,2025,Q1
 analog devices,2024-11-02,current_liabilities,2988280000,10-Q,2025,Q2
 analog devices,2024-11-02,current_liabilities,2988280000,10-Q,2025,Q3
+analog devices,2024-11-02,current_liabilities,2988280000,10-K,2025,FY
 analog devices,2025-02-01,current_liabilities,2970996000,10-Q,2025,Q1
 analog devices,2025-05-03,current_liabilities,2690642000,10-Q,2025,Q2
 analog devices,2025-08-02,current_liabilities,2979038000,10-Q,2025,Q3
+analog devices,2025-11-01,current_liabilities,3245801000,10-K,2025,FY
 analog devices,2008-11-01,retained_earnings,2419908000,10-Q,2009,Q3
 analog devices,2008-11-01,retained_earnings,2419908000,10-K,2009,FY
 analog devices,2009-08-01,retained_earnings,2426580000,10-Q,2009,Q3
@@ -14936,9 +14959,11 @@ analog devices,2024-11-02,retained_earnings,10196612000,10-K,2024,FY
 analog devices,2024-11-02,retained_earnings,10196612000,10-Q,2025,Q1
 analog devices,2024-11-02,retained_earnings,10196612000,10-Q,2025,Q2
 analog devices,2024-11-02,retained_earnings,10196612000,10-Q,2025,Q3
+analog devices,2024-11-02,retained_earnings,10196612000,10-K,2025,FY
 analog devices,2025-02-01,retained_earnings,10131590000,10-Q,2025,Q1
 analog devices,2025-05-03,retained_earnings,10210338000,10-Q,2025,Q2
 analog devices,2025-08-02,retained_earnings,10238695000,10-Q,2025,Q3
+analog devices,2025-11-01,retained_earnings,10539541000,10-K,2025,FY
 appfolio,2013-12-31,net_income,-7305000,10-K,2015,FY
 appfolio,2014-06-30,net_income,-2780000,10-Q,2015,Q2
 appfolio,2014-06-30,net_income,-1535000,10-Q,2015,Q2
@@ -21956,11 +21981,15 @@ autodesk,2024-07-31,cost_of_revenue,277000000,10-Q,2026,Q2
 autodesk,2024-07-31,cost_of_revenue,140000000,10-Q,2025,Q2
 autodesk,2024-07-31,cost_of_revenue,140000000,10-Q,2026,Q2
 autodesk,2024-10-31,cost_of_revenue,424000000,10-Q,2025,Q3
+autodesk,2024-10-31,cost_of_revenue,424000000,10-Q,2026,Q3
 autodesk,2024-10-31,cost_of_revenue,147000000,10-Q,2025,Q3
+autodesk,2024-10-31,cost_of_revenue,147000000,10-Q,2026,Q3
 autodesk,2025-01-31,cost_of_revenue,578000000,10-K,2025,FY
 autodesk,2025-04-30,cost_of_revenue,160000000,10-Q,2026,Q1
 autodesk,2025-07-31,cost_of_revenue,319000000,10-Q,2026,Q2
 autodesk,2025-07-31,cost_of_revenue,159000000,10-Q,2026,Q2
+autodesk,2025-10-31,cost_of_revenue,484000000,10-Q,2026,Q3
+autodesk,2025-10-31,cost_of_revenue,165000000,10-Q,2026,Q3
 autodesk,2008-01-31,net_income,356200000,10-K,2009,FY
 autodesk,2008-04-30,net_income,94600000,10-Q,2009,Q1
 autodesk,2008-07-31,net_income,184400000,10-Q,2009,Q2
@@ -22306,18 +22335,26 @@ autodesk,2024-04-30,net_income,252000000,10-Q,2025,Q2
 autodesk,2024-04-30,net_income,252000000,10-Q,2025,Q3
 autodesk,2024-04-30,net_income,252000000,10-Q,2026,Q1
 autodesk,2024-04-30,net_income,252000000,10-Q,2026,Q2
+autodesk,2024-04-30,net_income,252000000,10-Q,2026,Q3
 autodesk,2024-07-31,net_income,534000000,10-Q,2025,Q2
 autodesk,2024-07-31,net_income,534000000,10-Q,2026,Q2
 autodesk,2024-07-31,net_income,282000000,10-Q,2025,Q2
 autodesk,2024-07-31,net_income,282000000,10-Q,2025,Q3
 autodesk,2024-07-31,net_income,282000000,10-Q,2026,Q2
+autodesk,2024-07-31,net_income,282000000,10-Q,2026,Q3
 autodesk,2024-10-31,net_income,809000000,10-Q,2025,Q3
+autodesk,2024-10-31,net_income,809000000,10-Q,2026,Q3
 autodesk,2024-10-31,net_income,275000000,10-Q,2025,Q3
+autodesk,2024-10-31,net_income,275000000,10-Q,2026,Q3
 autodesk,2025-01-31,net_income,1112000000,10-K,2025,FY
 autodesk,2025-04-30,net_income,152000000,10-Q,2026,Q1
 autodesk,2025-04-30,net_income,152000000,10-Q,2026,Q2
+autodesk,2025-04-30,net_income,152000000,10-Q,2026,Q3
 autodesk,2025-07-31,net_income,465000000,10-Q,2026,Q2
 autodesk,2025-07-31,net_income,313000000,10-Q,2026,Q2
+autodesk,2025-07-31,net_income,313000000,10-Q,2026,Q3
+autodesk,2025-10-31,net_income,808000000,10-Q,2026,Q3
+autodesk,2025-10-31,net_income,343000000,10-Q,2026,Q3
 autodesk,2008-01-31,operating_expenses,1518600000,10-K,2009,FY
 autodesk,2008-04-30,operating_expenses,420900000,10-Q,2009,Q1
 autodesk,2008-07-31,operating_expenses,861900000,10-Q,2009,Q2
@@ -22527,11 +22564,15 @@ autodesk,2024-07-31,operating_expenses,2003000000,10-Q,2026,Q2
 autodesk,2024-07-31,operating_expenses,1022000000,10-Q,2025,Q2
 autodesk,2024-07-31,operating_expenses,1022000000,10-Q,2026,Q2
 autodesk,2024-10-31,operating_expenses,3080000000,10-Q,2025,Q3
+autodesk,2024-10-31,operating_expenses,3080000000,10-Q,2026,Q3
 autodesk,2024-10-31,operating_expenses,1077000000,10-Q,2025,Q3
+autodesk,2024-10-31,operating_expenses,1077000000,10-Q,2026,Q3
 autodesk,2025-01-31,operating_expenses,4199000000,10-K,2025,FY
 autodesk,2025-04-30,operating_expenses,1240000000,10-Q,2026,Q1
 autodesk,2025-07-31,operating_expenses,2400000000,10-Q,2026,Q2
 autodesk,2025-07-31,operating_expenses,1160000000,10-Q,2026,Q2
+autodesk,2025-10-31,operating_expenses,3618000000,10-Q,2026,Q3
+autodesk,2025-10-31,operating_expenses,1218000000,10-Q,2026,Q3
 autodesk,2008-01-31,operating_income,445600000,10-K,2009,FY
 autodesk,2008-04-30,operating_income,119900000,10-Q,2009,Q1
 autodesk,2008-07-31,operating_income,238700000,10-Q,2009,Q2
@@ -22831,11 +22872,15 @@ autodesk,2024-07-31,operating_income,642000000,10-Q,2026,Q2
 autodesk,2024-07-31,operating_income,343000000,10-Q,2025,Q2
 autodesk,2024-07-31,operating_income,343000000,10-Q,2026,Q2
 autodesk,2024-10-31,operating_income,988000000,10-Q,2025,Q3
+autodesk,2024-10-31,operating_income,988000000,10-Q,2026,Q3
 autodesk,2024-10-31,operating_income,346000000,10-Q,2025,Q3
+autodesk,2024-10-31,operating_income,346000000,10-Q,2026,Q3
 autodesk,2025-01-31,operating_income,1354000000,10-K,2025,FY
 autodesk,2025-04-30,operating_income,233000000,10-Q,2026,Q1
 autodesk,2025-07-31,operating_income,677000000,10-Q,2026,Q2
 autodesk,2025-07-31,operating_income,444000000,10-Q,2026,Q2
+autodesk,2025-10-31,operating_income,1147000000,10-Q,2026,Q3
+autodesk,2025-10-31,operating_income,470000000,10-Q,2026,Q3
 autodesk,2008-01-31,rd_expense,490500000,10-K,2009,FY
 autodesk,2008-04-30,rd_expense,145600000,10-Q,2009,Q1
 autodesk,2008-07-31,rd_expense,300400000,10-Q,2009,Q2
@@ -23047,11 +23092,15 @@ autodesk,2024-07-31,rd_expense,714000000,10-Q,2026,Q2
 autodesk,2024-07-31,rd_expense,368000000,10-Q,2025,Q2
 autodesk,2024-07-31,rd_expense,368000000,10-Q,2026,Q2
 autodesk,2024-10-31,rd_expense,1092000000,10-Q,2025,Q3
+autodesk,2024-10-31,rd_expense,1092000000,10-Q,2026,Q3
 autodesk,2024-10-31,rd_expense,378000000,10-Q,2025,Q3
+autodesk,2024-10-31,rd_expense,378000000,10-Q,2026,Q3
 autodesk,2025-01-31,rd_expense,1485000000,10-K,2025,FY
 autodesk,2025-04-30,rd_expense,394000000,10-Q,2026,Q1
 autodesk,2025-07-31,rd_expense,807000000,10-Q,2026,Q2
 autodesk,2025-07-31,rd_expense,413000000,10-Q,2026,Q2
+autodesk,2025-10-31,rd_expense,1223000000,10-Q,2026,Q3
+autodesk,2025-10-31,rd_expense,416000000,10-Q,2026,Q3
 autodesk,2009-01-31,total_assets,2420700000,10-Q,2009,Q1
 autodesk,2009-01-31,total_assets,2420700000,10-Q,2009,Q2
 autodesk,2009-01-31,total_assets,2420700000,10-Q,2009,Q3
@@ -23185,8 +23234,10 @@ autodesk,2024-10-31,total_assets,10133000000,10-Q,2025,Q3
 autodesk,2025-01-31,total_assets,10833000000,10-K,2025,FY
 autodesk,2025-01-31,total_assets,10833000000,10-Q,2026,Q1
 autodesk,2025-01-31,total_assets,10833000000,10-Q,2026,Q2
+autodesk,2025-01-31,total_assets,10833000000,10-Q,2026,Q3
 autodesk,2025-04-30,total_assets,10585000000,10-Q,2026,Q1
 autodesk,2025-07-31,total_assets,10856000000,10-Q,2026,Q2
+autodesk,2025-10-31,total_assets,11198000000,10-Q,2026,Q3
 autodesk,2007-01-31,stockholders_equity,1115000000,10-K,2009,FY
 autodesk,2008-01-31,stockholders_equity,1230500000,10-K,2009,FY
 autodesk,2008-01-31,stockholders_equity,1230500000,10-K,2010,FY
@@ -23419,21 +23470,29 @@ autodesk,2024-01-31,stockholders_equity,1855000000,10-Q,2025,Q3
 autodesk,2024-01-31,stockholders_equity,1855000000,10-K,2025,FY
 autodesk,2024-01-31,stockholders_equity,1855000000,10-Q,2026,Q1
 autodesk,2024-01-31,stockholders_equity,1855000000,10-Q,2026,Q2
+autodesk,2024-01-31,stockholders_equity,1855000000,10-Q,2026,Q3
 autodesk,2024-04-30,stockholders_equity,2161000000,10-Q,2025,Q1
 autodesk,2024-04-30,stockholders_equity,2161000000,10-Q,2025,Q2
 autodesk,2024-04-30,stockholders_equity,2161000000,10-Q,2025,Q3
 autodesk,2024-04-30,stockholders_equity,2161000000,10-Q,2026,Q1
 autodesk,2024-04-30,stockholders_equity,2161000000,10-Q,2026,Q2
+autodesk,2024-04-30,stockholders_equity,2161000000,10-Q,2026,Q3
 autodesk,2024-07-31,stockholders_equity,2474000000,10-Q,2025,Q2
 autodesk,2024-07-31,stockholders_equity,2474000000,10-Q,2025,Q3
 autodesk,2024-07-31,stockholders_equity,2474000000,10-Q,2026,Q2
+autodesk,2024-07-31,stockholders_equity,2474000000,10-Q,2026,Q3
 autodesk,2024-10-31,stockholders_equity,2616000000,10-Q,2025,Q3
+autodesk,2024-10-31,stockholders_equity,2616000000,10-Q,2026,Q3
 autodesk,2025-01-31,stockholders_equity,2621000000,10-K,2025,FY
 autodesk,2025-01-31,stockholders_equity,2621000000,10-Q,2026,Q1
 autodesk,2025-01-31,stockholders_equity,2621000000,10-Q,2026,Q2
+autodesk,2025-01-31,stockholders_equity,2621000000,10-Q,2026,Q3
 autodesk,2025-04-30,stockholders_equity,2617000000,10-Q,2026,Q1
 autodesk,2025-04-30,stockholders_equity,2617000000,10-Q,2026,Q2
+autodesk,2025-04-30,stockholders_equity,2617000000,10-Q,2026,Q3
 autodesk,2025-07-31,stockholders_equity,2715000000,10-Q,2026,Q2
+autodesk,2025-07-31,stockholders_equity,2715000000,10-Q,2026,Q3
+autodesk,2025-10-31,stockholders_equity,2893000000,10-Q,2026,Q3
 autodesk,2008-01-31,gross_profit,1964200000,10-K,2009,FY
 autodesk,2008-04-30,gross_profit,540800000,10-Q,2009,Q1
 autodesk,2008-07-31,gross_profit,1100600000,10-Q,2009,Q2
@@ -23733,11 +23792,15 @@ autodesk,2024-07-31,gross_profit,2645000000,10-Q,2026,Q2
 autodesk,2024-07-31,gross_profit,1365000000,10-Q,2025,Q2
 autodesk,2024-07-31,gross_profit,1365000000,10-Q,2026,Q2
 autodesk,2024-10-31,gross_profit,4068000000,10-Q,2025,Q3
+autodesk,2024-10-31,gross_profit,4068000000,10-Q,2026,Q3
 autodesk,2024-10-31,gross_profit,1423000000,10-Q,2025,Q3
+autodesk,2024-10-31,gross_profit,1423000000,10-Q,2026,Q3
 autodesk,2025-01-31,gross_profit,5553000000,10-K,2025,FY
 autodesk,2025-04-30,gross_profit,1473000000,10-Q,2026,Q1
 autodesk,2025-07-31,gross_profit,3077000000,10-Q,2026,Q2
 autodesk,2025-07-31,gross_profit,1604000000,10-Q,2026,Q2
+autodesk,2025-10-31,gross_profit,4765000000,10-Q,2026,Q3
+autodesk,2025-10-31,gross_profit,1688000000,10-Q,2026,Q3
 autodesk,2009-01-31,current_assets,1388000000,10-Q,2009,Q1
 autodesk,2009-01-31,current_assets,1388000000,10-Q,2009,Q2
 autodesk,2009-01-31,current_assets,1388000000,10-Q,2009,Q3
@@ -23871,8 +23934,10 @@ autodesk,2024-10-31,current_assets,2899000000,10-Q,2025,Q3
 autodesk,2025-01-31,current_assets,3482000000,10-K,2025,FY
 autodesk,2025-01-31,current_assets,3482000000,10-Q,2026,Q1
 autodesk,2025-01-31,current_assets,3482000000,10-Q,2026,Q2
+autodesk,2025-01-31,current_assets,3482000000,10-Q,2026,Q3
 autodesk,2025-04-30,current_assets,3215000000,10-Q,2026,Q1
 autodesk,2025-07-31,current_assets,3489000000,10-Q,2026,Q2
+autodesk,2025-10-31,current_assets,3895000000,10-Q,2026,Q3
 autodesk,2009-01-31,current_liabilities,800100000,10-Q,2009,Q1
 autodesk,2009-01-31,current_liabilities,800100000,10-Q,2009,Q2
 autodesk,2009-01-31,current_liabilities,800100000,10-Q,2009,Q3
@@ -24003,8 +24068,10 @@ autodesk,2024-10-31,current_liabilities,4468000000,10-Q,2025,Q3
 autodesk,2025-01-31,current_liabilities,5151000000,10-K,2025,FY
 autodesk,2025-01-31,current_liabilities,5151000000,10-Q,2026,Q1
 autodesk,2025-01-31,current_liabilities,5151000000,10-Q,2026,Q2
+autodesk,2025-01-31,current_liabilities,5151000000,10-Q,2026,Q3
 autodesk,2025-04-30,current_liabilities,4919000000,10-Q,2026,Q1
 autodesk,2025-07-31,current_liabilities,4566000000,10-Q,2026,Q2
+autodesk,2025-10-31,current_liabilities,4735000000,10-Q,2026,Q3
 autodesk,2009-01-31,retained_earnings,241500000,10-Q,2009,Q1
 autodesk,2009-01-31,retained_earnings,241500000,10-Q,2009,Q2
 autodesk,2009-01-31,retained_earnings,241500000,10-Q,2009,Q3
@@ -24143,8 +24210,10 @@ autodesk,2024-10-31,retained_earnings,-1224000000,10-Q,2025,Q3
 autodesk,2025-01-31,retained_earnings,-1333000000,10-K,2025,FY
 autodesk,2025-01-31,retained_earnings,-1333000000,10-Q,2026,Q1
 autodesk,2025-01-31,retained_earnings,-1333000000,10-Q,2026,Q2
+autodesk,2025-01-31,retained_earnings,-1333000000,10-Q,2026,Q3
 autodesk,2025-04-30,retained_earnings,-1459000000,10-Q,2026,Q1
 autodesk,2025-07-31,retained_earnings,-1487000000,10-Q,2026,Q2
+autodesk,2025-10-31,retained_earnings,-1432000000,10-Q,2026,Q3
 bakkt,2020-09-30,net_income,-17379,10-Q,2020,Q3
 bakkt,2020-09-30,net_income,-3032369,10-Q,2021,Q3
 bakkt,2020-12-31,net_income,-79605000,10-K,2021,FY
@@ -28548,8 +28617,11 @@ bird,2022-09-30,revenue,800637000,10-K,2024,FY
 bird,2022-10-01,revenue,800637000,10-K,2022,FY
 bird,2022-10-01,revenue,800637000,10-K,2023,FY
 bird,2023-09-30,revenue,1132793000,10-K,2024,FY
+bird,2023-09-30,revenue,1132793000,10-K,2025,FY
 bird,2023-09-30,revenue,1132793000,10-K,2023,FY
 bird,2024-09-28,revenue,1347154000,10-K,2024,FY
+bird,2024-09-28,revenue,1347154000,10-K,2025,FY
+bird,2025-09-27,revenue,1480099000,10-K,2025,FY
 bird,2013-09-28,cost_of_revenue,684109000,10-K,2015,FY
 bird,2014-03-29,cost_of_revenue,295203000,10-Q,2015,Q2
 bird,2014-03-29,cost_of_revenue,169670000,10-Q,2015,Q2
@@ -28671,6 +28743,7 @@ bird,2023-07-01,cost_of_revenue,740974000,10-Q,2023,Q3
 bird,2023-07-01,cost_of_revenue,248534000,10-Q,2023,Q3
 bird,2023-07-01,cost_of_revenue,248534000,10-Q,2024,Q3
 bird,2023-09-30,cost_of_revenue,993943000,10-K,2024,FY
+bird,2023-09-30,cost_of_revenue,993943000,10-K,2025,FY
 bird,2023-09-30,cost_of_revenue,993943000,10-K,2023,FY
 bird,2023-12-30,cost_of_revenue,254102000,10-Q,2024,Q1
 bird,2023-12-30,cost_of_revenue,254102000,10-Q,2025,Q1
@@ -28683,11 +28756,13 @@ bird,2024-06-29,cost_of_revenue,800392000,10-Q,2025,Q3
 bird,2024-06-29,cost_of_revenue,264014000,10-Q,2024,Q3
 bird,2024-06-29,cost_of_revenue,264014000,10-Q,2025,Q3
 bird,2024-09-28,cost_of_revenue,1090998000,10-K,2024,FY
+bird,2024-09-28,cost_of_revenue,1090998000,10-K,2025,FY
 bird,2024-12-28,cost_of_revenue,253555000,10-Q,2025,Q1
 bird,2025-03-29,cost_of_revenue,541552000,10-Q,2025,Q2
 bird,2025-03-29,cost_of_revenue,287997000,10-Q,2025,Q2
 bird,2025-06-28,cost_of_revenue,853635000,10-Q,2025,Q3
 bird,2025-06-28,cost_of_revenue,312083000,10-Q,2025,Q3
+bird,2025-09-27,cost_of_revenue,1176586000,10-K,2025,FY
 bird,2013-09-28,net_income,54208000,10-K,2015,FY
 bird,2013-12-28,net_income,4063000,10-K,2015,FY
 bird,2014-03-29,net_income,11692000,10-Q,2015,Q2
@@ -28829,6 +28904,7 @@ bird,2023-07-01,net_income,5194000,10-Q,2023,Q3
 bird,2023-07-01,net_income,9358000,10-Q,2023,Q3
 bird,2023-07-01,net_income,9358000,10-Q,2024,Q3
 bird,2023-09-30,net_income,23812000,10-K,2024,FY
+bird,2023-09-30,net_income,23812000,10-K,2025,FY
 bird,2023-09-30,net_income,23812000,10-K,2023,FY
 bird,2023-12-30,net_income,26150000,10-Q,2024,Q1
 bird,2023-12-30,net_income,26150000,10-Q,2025,Q1
@@ -28841,11 +28917,13 @@ bird,2024-06-29,net_income,80884000,10-Q,2025,Q3
 bird,2024-06-29,net_income,28711000,10-Q,2024,Q3
 bird,2024-06-29,net_income,28711000,10-Q,2025,Q3
 bird,2024-09-28,net_income,105547000,10-K,2024,FY
+bird,2024-09-28,net_income,105547000,10-K,2025,FY
 bird,2024-12-28,net_income,28722000,10-Q,2025,Q1
 bird,2025-03-29,net_income,54768000,10-Q,2025,Q2
 bird,2025-03-29,net_income,26046000,10-Q,2025,Q2
 bird,2025-06-28,net_income,91223000,10-Q,2025,Q3
 bird,2025-06-28,net_income,36455000,10-Q,2025,Q3
+bird,2025-09-27,net_income,127720000,10-K,2025,FY
 bird,2013-09-28,operating_income,27117000,10-K,2015,FY
 bird,2013-12-28,operating_income,6358000,10-K,2015,FY
 bird,2014-03-29,operating_income,17931000,10-Q,2015,Q2
@@ -28975,6 +29053,7 @@ bird,2023-07-01,operating_income,22491000,10-Q,2023,Q3
 bird,2023-07-01,operating_income,19422000,10-Q,2023,Q3
 bird,2023-07-01,operating_income,19422000,10-Q,2024,Q3
 bird,2023-09-30,operating_income,51657000,10-K,2024,FY
+bird,2023-09-30,operating_income,51657000,10-K,2025,FY
 bird,2023-09-30,operating_income,51657000,10-K,2023,FY
 bird,2023-12-30,operating_income,37956000,10-Q,2024,Q1
 bird,2023-12-30,operating_income,37956000,10-Q,2025,Q1
@@ -28987,11 +29066,13 @@ bird,2024-06-29,operating_income,113752000,10-Q,2025,Q3
 bird,2024-06-29,operating_income,39728000,10-Q,2024,Q3
 bird,2024-06-29,operating_income,39728000,10-Q,2025,Q3
 bird,2024-09-28,operating_income,139331000,10-K,2024,FY
+bird,2024-09-28,operating_income,139331000,10-K,2025,FY
 bird,2024-12-28,operating_income,33042000,10-Q,2025,Q1
 bird,2025-03-29,operating_income,66753000,10-Q,2025,Q2
 bird,2025-03-29,operating_income,33711000,10-Q,2025,Q2
 bird,2025-06-28,operating_income,116822000,10-Q,2025,Q3
 bird,2025-06-28,operating_income,50069000,10-Q,2025,Q3
+bird,2025-09-27,operating_income,167166000,10-K,2025,FY
 bird,2013-09-28,rd_expense,3600000,10-K,2015,FY
 bird,2014-09-27,rd_expense,3700000,10-K,2015,FY
 bird,2014-09-27,rd_expense,3700000,10-K,2016,FY
@@ -29020,8 +29101,11 @@ bird,2022-09-30,rd_expense,6100000,10-K,2024,FY
 bird,2022-10-01,rd_expense,6100000,10-K,2022,FY
 bird,2022-10-01,rd_expense,6100000,10-K,2023,FY
 bird,2023-09-30,rd_expense,6600000,10-K,2024,FY
+bird,2023-09-30,rd_expense,6600000,10-K,2025,FY
 bird,2023-09-30,rd_expense,6600000,10-K,2023,FY
 bird,2024-09-28,rd_expense,9400000,10-K,2024,FY
+bird,2024-09-28,rd_expense,9400000,10-K,2025,FY
+bird,2025-09-27,rd_expense,15200000,10-K,2025,FY
 bird,2013-12-31,total_assets,348000,10-Q,2014,Q1
 bird,2013-12-31,total_assets,348000,10-Q,2014,Q2
 bird,2013-12-31,total_assets,348000,10-Q,2014,Q3
@@ -29111,9 +29195,11 @@ bird,2024-09-28,total_assets,524894000,10-K,2024,FY
 bird,2024-09-28,total_assets,524894000,10-Q,2025,Q1
 bird,2024-09-28,total_assets,524894000,10-Q,2025,Q2
 bird,2024-09-28,total_assets,524894000,10-Q,2025,Q3
+bird,2024-09-28,total_assets,524894000,10-K,2025,FY
 bird,2024-12-28,total_assets,535222000,10-Q,2025,Q1
 bird,2025-03-29,total_assets,543698000,10-Q,2025,Q2
 bird,2025-06-28,total_assets,575450000,10-Q,2025,Q3
+bird,2025-09-27,total_assets,625255000,10-K,2025,FY
 bird,2013-12-31,total_liabilities,323000,10-Q,2014,Q1
 bird,2013-12-31,total_liabilities,323000,10-Q,2014,Q2
 bird,2013-12-31,total_liabilities,323000,10-Q,2014,Q3
@@ -29211,9 +29297,11 @@ bird,2024-09-28,stockholders_equity,159564000,10-K,2024,FY
 bird,2024-09-28,stockholders_equity,159564000,10-Q,2025,Q1
 bird,2024-09-28,stockholders_equity,159564000,10-Q,2025,Q2
 bird,2024-09-28,stockholders_equity,159564000,10-Q,2025,Q3
+bird,2024-09-28,stockholders_equity,159564000,10-K,2025,FY
 bird,2024-12-28,stockholders_equity,179705000,10-Q,2025,Q1
 bird,2025-03-29,stockholders_equity,190392000,10-Q,2025,Q2
 bird,2025-06-28,stockholders_equity,221847000,10-Q,2025,Q3
+bird,2025-09-27,stockholders_equity,255415000,10-K,2025,FY
 bird,2013-09-28,gross_profit,92449000,10-K,2015,FY
 bird,2013-12-28,gross_profit,20460000,10-K,2015,FY
 bird,2014-03-29,gross_profit,46462000,10-Q,2015,Q2
@@ -29343,6 +29431,7 @@ bird,2023-07-01,gross_profit,88856000,10-Q,2023,Q3
 bird,2023-07-01,gross_profit,45750000,10-Q,2023,Q3
 bird,2023-07-01,gross_profit,45750000,10-Q,2024,Q3
 bird,2023-09-30,gross_profit,138850000,10-K,2024,FY
+bird,2023-09-30,gross_profit,138850000,10-K,2025,FY
 bird,2023-09-30,gross_profit,138850000,10-K,2023,FY
 bird,2023-12-30,gross_profit,63558000,10-Q,2024,Q1
 bird,2023-12-30,gross_profit,63558000,10-Q,2025,Q1
@@ -29355,11 +29444,13 @@ bird,2024-06-29,gross_profit,196550000,10-Q,2025,Q3
 bird,2024-06-29,gross_profit,69353000,10-Q,2024,Q3
 bird,2024-06-29,gross_profit,69353000,10-Q,2025,Q3
 bird,2024-09-28,gross_profit,256156000,10-K,2024,FY
+bird,2024-09-28,gross_profit,256156000,10-K,2025,FY
 bird,2024-12-28,gross_profit,60317000,10-Q,2025,Q1
 bird,2025-03-29,gross_profit,131171000,10-Q,2025,Q2
 bird,2025-03-29,gross_profit,70854000,10-Q,2025,Q2
 bird,2025-06-28,gross_profit,217099000,10-Q,2025,Q3
 bird,2025-06-28,gross_profit,85928000,10-Q,2025,Q3
+bird,2025-09-27,gross_profit,303513000,10-K,2025,FY
 bird,2013-12-31,current_assets,2000,10-Q,2014,Q1
 bird,2013-12-31,current_assets,2000,10-Q,2014,Q2
 bird,2013-12-31,current_assets,2000,10-Q,2014,Q3
@@ -29449,9 +29540,11 @@ bird,2024-09-28,current_assets,323379000,10-K,2024,FY
 bird,2024-09-28,current_assets,323379000,10-Q,2025,Q1
 bird,2024-09-28,current_assets,323379000,10-Q,2025,Q2
 bird,2024-09-28,current_assets,323379000,10-Q,2025,Q3
+bird,2024-09-28,current_assets,323379000,10-K,2025,FY
 bird,2024-12-28,current_assets,330858000,10-Q,2025,Q1
 bird,2025-03-29,current_assets,328419000,10-Q,2025,Q2
 bird,2025-06-28,current_assets,360673000,10-Q,2025,Q3
+bird,2025-09-27,current_assets,411628000,10-K,2025,FY
 bird,2013-12-31,current_liabilities,323000,10-Q,2014,Q1
 bird,2013-12-31,current_liabilities,323000,10-Q,2014,Q2
 bird,2013-12-31,current_liabilities,323000,10-Q,2014,Q3
@@ -29541,9 +29634,11 @@ bird,2024-09-28,current_liabilities,235973000,10-K,2024,FY
 bird,2024-09-28,current_liabilities,235973000,10-Q,2025,Q1
 bird,2024-09-28,current_liabilities,235973000,10-Q,2025,Q2
 bird,2024-09-28,current_liabilities,235973000,10-Q,2025,Q3
+bird,2024-09-28,current_liabilities,235973000,10-K,2025,FY
 bird,2024-12-28,current_liabilities,229427000,10-Q,2025,Q1
 bird,2025-03-29,current_liabilities,226646000,10-Q,2025,Q2
 bird,2025-06-28,current_liabilities,228579000,10-Q,2025,Q3
+bird,2025-09-27,current_liabilities,236799000,10-K,2025,FY
 bird,2014-09-27,retained_earnings,-102229000,10-Q,2015,Q2
 bird,2014-09-27,retained_earnings,-102229000,10-Q,2015,Q3
 bird,2014-09-27,retained_earnings,-102229000,10-K,2015,FY
@@ -29625,9 +29720,11 @@ bird,2024-09-28,retained_earnings,0,10-K,2024,FY
 bird,2024-09-28,retained_earnings,0,10-Q,2025,Q1
 bird,2024-09-28,retained_earnings,0,10-Q,2025,Q2
 bird,2024-09-28,retained_earnings,0,10-Q,2025,Q3
+bird,2024-09-28,retained_earnings,0,10-K,2025,FY
 bird,2024-12-28,retained_earnings,18686000,10-Q,2025,Q1
 bird,2025-03-29,retained_earnings,24715000,10-Q,2025,Q2
 bird,2025-06-28,retained_earnings,52230000,10-Q,2025,Q3
+bird,2025-09-27,retained_earnings,88193000,10-K,2025,FY
 blackbaud,2008-12-31,revenue,302495000,10-K,2010,FY
 blackbaud,2009-06-30,revenue,151156000,10-Q,2010,Q2
 blackbaud,2009-06-30,revenue,76415000,10-Q,2010,Q2
